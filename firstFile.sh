@@ -12,4 +12,7 @@ echo "$sub"
 echo "lets multiply"
 (( mul=x * y ))
 echo "$mul"
+echo "lets divide"
+(( div=x / y ))
+echo "$div"
 
